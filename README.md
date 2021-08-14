@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning JavaScript, Java, Kotlin C# and Python
+- 🌱 I’m currently learning JavaScript, TypeScript, Java, Kotlin C# and Python
   
   ##
  
