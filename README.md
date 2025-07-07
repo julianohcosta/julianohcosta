@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Jhoc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhoc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jhoc-Csharp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
-  <img align="center" alt="Jhoc-Csharp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png">
 </div>
   
   ##
