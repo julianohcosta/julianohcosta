@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm a passionate web developer specializing in **JavaScript** and **TypeScript**, with a growing interest in backend development using **Python** and **Java**. My expertise is centered around crafting efficient and scalable applications, and I'm always eager to tackle new challenges that enhance my skill set.
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning JavaScriptJava, C# and Python
+## 💡 Top Skills
+- **JavaScript**
+- **TypeScript**
+- **Python**
+- **Java**
+
+## 🚀 About Me
+- Focused on modern web development with a strong foundation in JavaScript and TypeScript.
+- Exploring backend technologies, especially Python and Java.
+- Committed to continuous learning in the fast-evolving tech landscape.
+- Currently working on private projects, so I don't have public repositories to showcase.
   
   ##
  
